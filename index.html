@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shruti Raj | Portfolio</title>
+  <meta name="description" content="Shruti Raj - Software Engineer portfolio featuring AI, ML, DevOps, and full-stack projects.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <nav class="nav">
+      <div class="brand">Shruti Raj</div>
+      <div class="nav-links">
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#experience">Experience</a>
+        <a href="#skills">Skills</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </nav>
+
+    <div class="hero-content">
+      <p class="eyebrow">Software Engineer | AI/ML | DevOps</p>
+      <h1>Building AI products, developer tools, and deployment-ready systems.</h1>
+      <p class="hero-text">
+        Final year Computer Science student at KIIT with internship experience at Cisco. I build practical software across AI agents,
+        RAG systems, CI/CD automation, and machine learning web apps.
+      </p>
+      <div class="hero-actions">
+        <a class="btn primary" href="#projects">View Projects</a>
+        <a class="btn secondary" href="shrutiresume_new_prijects.pdf" target="_blank" rel="noreferrer">View Resume</a>
+      </div>
+      <div class="hero-meta">
+        <span>Based in Bangalore, India</span>
+        <span>Open to Software Engineer roles</span>
+      </div>
+      <div class="hero-stats">
+        <div class="stat-card">
+          <strong>6</strong>
+          <span>Portfolio Projects</span>
+        </div>
+        <div class="stat-card">
+          <strong>4</strong>
+          <span>Live Deployed Apps</span>
+        </div>
+        <div class="stat-card">
+          <strong>AI + DevOps</strong>
+          <span>Primary Focus</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="about" class="section">
+      <div class="section-heading">
+        <p class="label">About</p>
+        <h2>Focused on real, usable software.</h2>
+      </div>
+      <div class="about-grid">
+        <div class="about-card">
+          <h3>What I work on</h3>
+          <p>
+            I enjoy building projects that combine backend engineering with practical AI. My work includes tool-using agents,
+            document chat systems, DevOps assistants, and automation pipelines.
+          </p>
+        </div>
+        <div class="about-card">
+          <h3>Core strengths</h3>
+          <ul>
+            <li>Python, Flask, Java</li>
+            <li>LLM integration, RAG, vector search</li>
+            <li>Docker, GitHub Actions, CI/CD</li>
+            <li>ML model comparison and deployment</li>
+          </ul>
+        </div>
+        <div class="about-card">
+          <h3>Currently looking for</h3>
+          <p>
+            Full-time Software Engineer opportunities where I can work on backend systems, developer tools, AI-driven products,
+            or infrastructure automation.
+          </p>
+        </div>
+        <div class="about-card">
+          <h3>Quick profile</h3>
+          <ul>
+            <li>Final year B.Tech CSE student at KIIT</li>
+            <li>Software Engineering internship experience at Cisco</li>
+            <li>Built and deployed projects end-to-end</li>
+            <li>Comfortable across code, ML, and automation</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="projects" class="section">
+      <div class="section-heading">
+        <p class="label">Projects</p>
+        <h2>Selected work</h2>
+      </div>
+
+      <div class="projects-grid">
+        <article class="project-card featured">
+          <div class="project-tag">Featured</div>
+          <h3>DevOps Copilot</h3>
+          <p>
+            AI-powered DevOps assistant that debugs logs, generates Dockerfiles, writes GitHub Actions YAML, and explains
+            infrastructure issues through a terminal-style chat experience.
+          </p>
+          <div class="stack">Python · Flask · Groq · LLaMA 3.3 · HTML · CSS · JavaScript</div>
+          <div class="project-links">
+            <a href="https://devops-copilot-o2ha.onrender.com" target="_blank" rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Shrutiraj26/devops-copilot" target="_blank" rel="noreferrer">GitHub</a>
+          </div>
+        </article>
+
+        <article class="project-card featured">
+          <div class="project-tag">Featured</div>
+          <h3>RAG Document Chat</h3>
+          <p>
+            Upload PDF or TXT files, generate embeddings, search with FAISS, and ask context-grounded questions using a
+            Retrieval-Augmented Generation pipeline.
+          </p>
+          <div class="stack">Python · Flask · FAISS · Sentence Transformers · Groq · PyPDF2</div>
+          <div class="project-links">
+            <a href="https://rag-document-chat-nrwb.onrender.com" target="_blank" rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Shrutiraj26/rag-document-chat" target="_blank" rel="noreferrer">GitHub</a>
+          </div>
+        </article>
+
+        <article class="project-card">
+          <h3>AI Research Agent</h3>
+          <p>
+            Tool-using AI agent that combines web search, Wikipedia lookup, and calculation tools before returning a final answer.
+          </p>
+          <div class="stack">Python · Flask · Groq · DuckDuckGo Search · Wikipedia API</div>
+          <div class="project-links">
+            <a href="https://ai-research-agent-3z77.onrender.com" target="_blank" rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Shrutiraj26/ai-research-agent" target="_blank" rel="noreferrer">GitHub</a>
+          </div>
+        </article>
+
+        <article class="project-card">
+          <h3>CI/CD Pipeline</h3>
+          <p>
+            End-to-end CI/CD workflow that runs tests, builds a Docker image, and pushes it to GitHub Container Registry on each push.
+          </p>
+          <div class="stack">Python · Flask · Pytest · Docker · GitHub Actions</div>
+          <div class="project-links">
+            <a href="https://github.com/Shrutiraj26/ci-cd-pipeline" target="_blank" rel="noreferrer">GitHub</a>
+          </div>
+        </article>
+
+        <article class="project-card">
+          <h3>Breast Cancer Prediction Web App</h3>
+          <p>
+            Machine learning web app that compares 5 models and predicts whether a tumor is malignant or benign using 30 clinical features.
+          </p>
+          <div class="stack">Python · Scikit-learn · Flask · Pandas · NumPy</div>
+          <div class="project-links">
+            <a href="https://breast-cancer-prediction-0yq7.onrender.com" target="_blank" rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Shrutiraj26/Breast_cancer_prediction" target="_blank" rel="noreferrer">GitHub</a>
+          </div>
+        </article>
+
+        <article class="project-card">
+          <h3>Java Chat Server</h3>
+          <p>
+            Real-time client-server chat application built with Java sockets and Swing, demonstrating networking, OOP, and GUI event handling.
+          </p>
+          <div class="stack">Java · TCP Sockets · Swing</div>
+          <div class="project-links">
+            <a href="https://github.com/Shrutiraj26/chatserver" target="_blank" rel="noreferrer">GitHub</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="experience" class="section">
+      <div class="section-heading">
+        <p class="label">Experience</p>
+        <h2>Internship experience</h2>
+      </div>
+
+      <div class="timeline">
+        <article class="timeline-item">
+          <div class="timeline-top">
+            <h3>Technical Intern (Software Engineer) · Cisco</h3>
+            <span>Jan 2026 - Jun 2026</span>
+          </div>
+          <p>
+            Worked on CI/CD automation, deployment safeguards, upgrade validation, and internal tooling improvements across virtualized environments.
+          </p>
+        </article>
+
+        <article class="timeline-item">
+          <div class="timeline-top">
+            <h3>Network Analyst Intern · IOCL</h3>
+            <span>Dec 2024 - Jan 2025</span>
+          </div>
+          <p>
+            Analyzed network infrastructure, identified performance bottlenecks, and documented router, switch, and security optimization recommendations.
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <section id="skills" class="section">
+      <div class="section-heading">
+        <p class="label">Skills</p>
+        <h2>Tools and technologies</h2>
+      </div>
+
+      <div class="skills-grid">
+        <div class="skill-box">
+          <h3>Languages</h3>
+          <p>Python, Java, C, SQL, JavaScript</p>
+        </div>
+        <div class="skill-box">
+          <h3>AI / ML</h3>
+          <p>Scikit-learn, Pandas, NumPy, FAISS, Sentence Transformers, RAG, Tool Calling</p>
+        </div>
+        <div class="skill-box">
+          <h3>DevOps</h3>
+          <p>Git, GitHub Actions, Docker, Kubernetes, YAML, CI/CD</p>
+        </div>
+        <div class="skill-box">
+          <h3>Cloud / Infra</h3>
+          <p>AWS, vCenter, Hyper-V, KVM</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <p class="label">Certifications</p>
+        <h2>Industry learning</h2>
+      </div>
+
+      <div class="cert-grid">
+        <div class="cert-card">CCNA</div>
+        <div class="cert-card">Cisco AI Technical Practitioner</div>
+        <div class="cert-card">Docker for Beginners</div>
+        <div class="cert-card">Kubernetes for Beginners</div>
+        <div class="cert-card">AWS Cloud Foundations & Machine Learning</div>
+        <div class="cert-card">AI Agents and Agentic AI in Python</div>
+      </div>
+    </section>
+
+    <section id="contact" class="section contact-section">
+      <div class="section-heading">
+        <p class="label">Contact</p>
+        <h2>Let’s connect</h2>
+      </div>
+
+      <p>
+        I’m currently looking for full-time Software Engineer opportunities. If you want to discuss projects, internships,
+        or collaboration, feel free to reach out.
+      </p>
+
+      <div class="contact-links">
+        <a href="mailto:shrutiraj2604@gmail.com">Email</a>
+        <a href="https://www.linkedin.com/in/shruti-raj-181aa0284/" target="_blank" rel="noreferrer">LinkedIn</a>
+        <a href="https://github.com/Shrutiraj26" target="_blank" rel="noreferrer">GitHub</a>
+        <a href="shrutiresume_new_prijects.pdf" target="_blank" rel="noreferrer">Resume PDF</a>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
