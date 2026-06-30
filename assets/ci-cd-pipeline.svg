@@ -1,0 +1,21 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="720" rx="32" fill="#08111A"/>
+<rect x="50" y="50" width="1100" height="620" rx="30" fill="url(#paint0_linear)"/>
+<rect x="150" y="286" width="180" height="116" rx="24" fill="#102235" stroke="#284661"/>
+<rect x="510" y="286" width="180" height="116" rx="24" fill="#102235" stroke="#284661"/>
+<rect x="870" y="286" width="180" height="116" rx="24" fill="#102235" stroke="#284661"/>
+<path d="M330 344H510" stroke="#8EF0C9" stroke-width="6" stroke-linecap="round"/>
+<path d="M690 344H870" stroke="#8EF0C9" stroke-width="6" stroke-linecap="round"/>
+<text x="190" y="354" fill="#6EA8FF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800">Test</text>
+<text x="535" y="354" fill="#8EF0C9" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800">Build</text>
+<text x="905" y="354" fill="#FFD166" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800">Deploy</text>
+<text x="148" y="170" fill="#E5EEFC" font-family="Inter, Arial, sans-serif" font-size="60" font-weight="800">CI/CD Pipeline</text>
+<text x="148" y="222" fill="#9FB2CF" font-family="Inter, Arial, sans-serif" font-size="28">Automated testing, Docker packaging, and release workflow</text>
+<text x="148" y="520" fill="#C6D6F1" font-family="Inter, Arial, sans-serif" font-size="26">GitHub Actions · Pytest · Docker · GHCR</text>
+<defs>
+<linearGradient id="paint0_linear" x1="93" y1="82" x2="1081" y2="633" gradientUnits="userSpaceOnUse">
+<stop stop-color="#122B35"/>
+<stop offset="1" stop-color="#111E38"/>
+</linearGradient>
+</defs>
+</svg>

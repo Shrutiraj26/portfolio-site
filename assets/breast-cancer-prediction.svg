@@ -1,0 +1,19 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="720" rx="32" fill="#09111B"/>
+<rect x="52" y="52" width="1096" height="616" rx="30" fill="url(#paint0_linear)"/>
+<rect x="124" y="142" width="952" height="436" rx="28" fill="#0E1927" stroke="#24415A"/>
+<path d="M220 488C318 420 390 377 498 338C584 307 693 259 826 219" stroke="#8EF0C9" stroke-width="8" stroke-linecap="round"/>
+<circle cx="825" cy="219" r="14" fill="#8EF0C9"/>
+<text x="164" y="236" fill="#E5EEFC" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="800">Breast Cancer Prediction</text>
+<text x="164" y="286" fill="#9FB2CF" font-family="Inter, Arial, sans-serif" font-size="28">ML web app for benign vs malignant classification</text>
+<rect x="164" y="338" width="212" height="52" rx="26" fill="#123459"/>
+<text x="214" y="372" fill="#6EA8FF" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">98% Accuracy</text>
+<rect x="394" y="338" width="236" height="52" rx="26" fill="#10372D"/>
+<text x="444" y="372" fill="#8EF0C9" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">5 Models Compared</text>
+<defs>
+<linearGradient id="paint0_linear" x1="92" y1="82" x2="1097" y2="638" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1E223E"/>
+<stop offset="1" stop-color="#112331"/>
+</linearGradient>
+</defs>
+</svg>

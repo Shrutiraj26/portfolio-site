@@ -1,0 +1,17 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="720" rx="32" fill="#08101A"/>
+<rect x="52" y="52" width="1096" height="616" rx="30" fill="url(#paint0_linear)"/>
+<rect x="168" y="214" width="312" height="258" rx="28" fill="#0F1A29" stroke="#24415A"/>
+<rect x="720" y="214" width="312" height="258" rx="28" fill="#0F1A29" stroke="#24415A"/>
+<path d="M480 343H720" stroke="#8EF0C9" stroke-width="6" stroke-linecap="round" stroke-dasharray="10 10"/>
+<text x="228" y="356" fill="#6EA8FF" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">Server</text>
+<text x="794" y="356" fill="#FFD166" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">Client</text>
+<text x="154" y="144" fill="#E5EEFC" font-family="Inter, Arial, sans-serif" font-size="60" font-weight="800">Java Chat Server</text>
+<text x="154" y="196" fill="#9FB2CF" font-family="Inter, Arial, sans-serif" font-size="28">Socket-based messaging with Java Swing and TCP communication</text>
+<defs>
+<linearGradient id="paint0_linear" x1="80" y1="84" x2="1115" y2="643" gradientUnits="userSpaceOnUse">
+<stop stop-color="#112438"/>
+<stop offset="1" stop-color="#12212D"/>
+</linearGradient>
+</defs>
+</svg>

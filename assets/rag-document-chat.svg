@@ -1,0 +1,21 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="720" rx="32" fill="#07121B"/>
+<rect x="48" y="48" width="1104" height="624" rx="28" fill="url(#paint0_linear)"/>
+<rect x="102" y="116" width="278" height="470" rx="26" fill="#0E1D2B" stroke="#27435F"/>
+<rect x="430" y="146" width="650" height="128" rx="28" fill="#0D1A29" stroke="#294868"/>
+<rect x="430" y="308" width="650" height="248" rx="28" fill="#091421" stroke="#1D3852"/>
+<text x="150" y="204" fill="#E5EEFC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">PDF</text>
+<text x="150" y="246" fill="#9FB2CF" font-family="Inter, Arial, sans-serif" font-size="20">Upload and</text>
+<text x="150" y="274" fill="#9FB2CF" font-family="Inter, Arial, sans-serif" font-size="20">chat with docs</text>
+<circle cx="560" cy="212" r="30" fill="#6EA8FF" fill-opacity="0.22"/>
+<circle cx="650" cy="212" r="30" fill="#8EF0C9" fill-opacity="0.22"/>
+<circle cx="740" cy="212" r="30" fill="#A78BFA" fill-opacity="0.22"/>
+<text x="470" y="390" fill="#E5EEFC" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="800">RAG Document Chat</text>
+<text x="470" y="446" fill="#9FB2CF" font-family="Inter, Arial, sans-serif" font-size="28">FAISS + embeddings + LLM answers grounded in your file</text>
+<defs>
+<linearGradient id="paint0_linear" x1="74" y1="72" x2="1133" y2="642" gradientUnits="userSpaceOnUse">
+<stop stop-color="#122A31"/>
+<stop offset="1" stop-color="#11203A"/>
+</linearGradient>
+</defs>
+</svg>

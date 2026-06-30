@@ -1,0 +1,21 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="720" rx="32" fill="#0B1220"/>
+<rect x="48" y="48" width="1104" height="624" rx="28" fill="url(#paint0_linear)"/>
+<rect x="110" y="142" width="980" height="430" rx="24" fill="#08111F" stroke="#1E3A5F"/>
+<circle cx="156" cy="188" r="10" fill="#FF6B6B"/>
+<circle cx="186" cy="188" r="10" fill="#FFD166"/>
+<circle cx="216" cy="188" r="10" fill="#06D6A0"/>
+<text x="150" y="265" fill="#8EF0C9" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">$ debug deployment pipeline</text>
+<text x="150" y="322" fill="#E5EEFC" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">DevOps Copilot</text>
+<text x="150" y="380" fill="#9FB2CF" font-family="Inter, Arial, sans-serif" font-size="28">AI assistant for logs, Docker, CI/CD and Kubernetes workflows</text>
+<rect x="150" y="442" width="224" height="52" rx="26" fill="#123459"/>
+<text x="186" y="476" fill="#6EA8FF" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">LLaMA 3.3</text>
+<rect x="392" y="442" width="168" height="52" rx="26" fill="#10372D"/>
+<text x="440" y="476" fill="#8EF0C9" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">Groq</text>
+<defs>
+<linearGradient id="paint0_linear" x1="84" y1="72" x2="1119" y2="637" gradientUnits="userSpaceOnUse">
+<stop stop-color="#12233D"/>
+<stop offset="1" stop-color="#0B1A31"/>
+</linearGradient>
+</defs>
+</svg>

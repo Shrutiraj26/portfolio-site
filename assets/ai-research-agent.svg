@@ -1,0 +1,23 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="720" rx="32" fill="#08121F"/>
+<rect x="52" y="52" width="1096" height="616" rx="30" fill="url(#paint0_linear)"/>
+<circle cx="600" cy="286" r="104" fill="#13243D" stroke="#315478" stroke-width="2"/>
+<circle cx="420" cy="416" r="72" fill="#102437" stroke="#264964"/>
+<circle cx="782" cy="416" r="72" fill="#102437" stroke="#264964"/>
+<circle cx="600" cy="494" r="72" fill="#102437" stroke="#264964"/>
+<path d="M486 387L538 344" stroke="#8EF0C9" stroke-width="4"/>
+<path d="M714 387L662 344" stroke="#8EF0C9" stroke-width="4"/>
+<path d="M600 390V422" stroke="#8EF0C9" stroke-width="4"/>
+<text x="543" y="296" fill="#E5EEFC" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800">Agent</text>
+<text x="378" y="425" fill="#6EA8FF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Web Search</text>
+<text x="744" y="425" fill="#8EF0C9" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Wikipedia</text>
+<text x="560" y="503" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Calculator</text>
+<text x="202" y="146" fill="#E5EEFC" font-family="Inter, Arial, sans-serif" font-size="60" font-weight="800">AI Research Agent</text>
+<text x="202" y="196" fill="#9FB2CF" font-family="Inter, Arial, sans-serif" font-size="28">Tool-calling assistant for real-time research and factual answers</text>
+<defs>
+<linearGradient id="paint0_linear" x1="100" y1="80" x2="1102" y2="637" gradientUnits="userSpaceOnUse">
+<stop stop-color="#111E39"/>
+<stop offset="1" stop-color="#0D1B2D"/>
+</linearGradient>
+</defs>
+</svg>
