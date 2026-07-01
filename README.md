@@ -1,6 +1,7 @@
 # Shruti Raj Portfolio
 
 Personal portfolio website for Shruti Raj, featuring projects, experience, skills, certifications, and resume.
+Open : https://shrutiraj26.github.io/portfolio-site/
 
 ## Tech Stack
 
